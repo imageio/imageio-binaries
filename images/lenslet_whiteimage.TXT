@@ -1,0 +1,225 @@
+{
+	"master" : {
+		"version" : {
+			"major" : 1,
+			"minor" : 0,
+			"provisionalDate" : "2014-Sep-06"
+		},
+		"picture" : {
+			"viewArray" : [],
+			"accelerationArray" : [],
+			"frameArray" : [
+				{
+					"frame" : {
+						"privateMetadata" : {
+							"camera" : {
+								"serialNumber" : "B5143909630"
+							},
+							"devices" : {
+								"sensor" : {
+									"sensorSerial" : "0x0c220593"
+								}
+							}
+						},
+						"metadata" : {
+							"camera" : {
+								"make" : "Lytro, Inc.",
+								"model" : "B01",
+								"firmware" : "Lytro Lightfield Engine 21.000000, eb1d080eadee901d6d515ac4b3cff898df8b6c77"
+							},
+							"type" : "lightField",
+							"image" : {
+								"width" : 7728,
+								"height" : 5368,
+								"orientation" : 1,
+								"color" : {
+									"ccmRgbToSrgbArray" : [
+										2.4827811717987061,
+										-1.1018080711364746,
+										-0.38097298145294189,
+										-0.36761483550071716,
+										1.6667767763137817,
+										-0.29916191101074219,
+										-0.18722048401832581,
+										-0.73317205905914307,
+										1.9203925132751465
+									],
+									"gamma" : 0.40000000000000002,
+									"applied" : {},
+									"whiteBalanceGain" : {
+										"r" : 1,
+										"gr" : 1,
+										"gb" : 1,
+										"b" : 1
+									}
+								},
+								"modulationExposureBias" : 0,
+								"limitExposureBias" : 0,
+								"representation" : "rawPacked",
+								"rawDetails" : {
+									"pixelFormat" : {
+										"rightShift" : 0,
+										"black" : {
+											"r" : 64,
+											"gr" : 64,
+											"gb" : 64,
+											"b" : 64
+										},
+										"white" : {
+											"r" : 1023,
+											"gr" : 1023,
+											"gb" : 1023,
+											"b" : 1023
+										}
+									},
+									"pixelPacking" : {
+										"endianness" : "little",
+										"bitsPerPixel" : 10
+									},
+									"mosaic" : {
+										"tile" : "r,gr:gb,b",
+										"upperLeftPixel" : "gr"
+									}
+								}
+							},
+							"devices" : {
+								"clock" : {
+									"zuluTime" : "2014-09-06T10_41_51"
+								},
+								"sensor" : {
+									"bitsPerPixel" : 10,
+									"mosaic" : {
+										"tile" : "r,gr:gb,b",
+										"upperLeftPixel" : "gr"
+									},
+									"pixelPitch" : 1.3999999737279722e-006,
+									"iso" : 100,
+									"analogGain" : {
+										"r" : 1,
+										"gr" : 1,
+										"gb" : 1,
+										"b" : 1
+									},
+									"normalizedResponses" : [
+										{
+											"cct" : 5100,
+											"r" : 0.77616631984710693,
+											"gr" : 1,
+											"gb" : 1,
+											"b" : 0.73449766635894775
+										}
+									]
+								},
+								"mla" : {
+									"config" : "com.lytro.mla.3",
+									"tiling" : "hexUniformRowMajor",
+									"lensPitch" : 1.9999999494757503e-005,
+									"rotation" : -0.00055235880427062511,
+									"defectArray" : [],
+									"scaleFactor" : {
+										"x" : 1,
+										"y" : 0.99998736381530762
+									},
+									"sensorOffset" : {
+										"x" : -1.117852207244141e-005,
+										"y" : -1.0289267038388061e-006,
+										"z" : 4.0599999920232221e-005
+									}
+								},
+								"lens" : {
+									"exitPupilOffset" : {
+										"z" : 0.046048875898122787
+									},
+									"opticalCenterOffset" : {
+										"x" : 1.48461913340725e-005,
+										"y" : 3.0832641641609371e-005
+									},
+									"focalLength" : 0.07759365439414978,
+									"infinityLambda" : 200,
+									"zoomStep" : -1040,
+									"focusStep" : -300,
+									"fNumber" : 2.1110498905181885,
+									"temperature" : 31.1572265625,
+									"temperatureAdc" : 2712,
+									"zoomStepperOffset" : -1,
+									"focusStepperOffset" : -3
+								},
+								"ndfilter" : {
+									"exposureBias" : 0
+								},
+								"shutter" : {
+									"mechanism" : "sensorOpenApertureClose",
+									"frameExposureDuration" : 0.0072242450714111329,
+									"pixelExposureDuration" : 0.0072242450714111329
+								},
+								"soc" : {
+									"temperature" : 36.065643310546875,
+									"temperatureAdc" : 3037
+								},
+								"accelerometer" : {
+									"sampleArray" : [
+										{
+											"x" : -0.019607843831181526,
+											"y" : 1.0196079015731812,
+											"z" : 0.047058824449777603,
+											"time" : 0
+										}
+									]
+								}
+							},
+							"modes" : {
+								"creative" : "auto",
+								"manualControls" : "auto",
+								"exposureDurationMode" : "auto",
+								"isoMode" : "auto",
+								"ndFilterMode" : "auto",
+								"exposureLock" : "false"
+							}
+						},
+						"imageRef" : "unknown"
+					},
+					"parameters" : {
+						"vendorContent" : {
+							"com.lytro.tags" : {
+								"darkFrame" : false,
+								"modulationFrame" : true
+							}
+						}
+					}
+				}
+			],
+			"derivationArray" : [
+				"sha1-52B44308E8CB5E129F64C48176AECFD992A73489"
+			]
+		},
+		"thumbnailArray" : []
+	},
+	"compressedFrame" : {
+		"metadata" : {
+			"ccmRgbToYuvArray" : [
+				0.30078125,
+				0.5859375,
+				0.11328125,
+				-0.171875,
+				-0.33203125,
+				0.51171875,
+				0.51171875,
+				-0.4296875,
+				-0.08203125
+			],
+			"ccmYuvToRgbArray" : [
+				1,
+				0,
+				1.37109375,
+				1,
+				-0.33984375,
+				-0.69921875,
+				1,
+				1.73046875,
+				0
+			],
+			"representation" : "jpeg",
+			"demodulated" : false
+		}
+	}
+}
