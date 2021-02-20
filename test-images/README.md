@@ -11,6 +11,7 @@ Lossless:
 
 Lossy:
     - chelsea.[jpg]
+    - chelsea_jpg.npy
 
 ### 3d Images
 Lossless:
